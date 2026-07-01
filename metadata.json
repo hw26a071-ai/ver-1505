@@ -1,0 +1,10 @@
+{
+  "name": "Remix: 手話学習ゲーム「手話っと！」【ver 07011458】",
+  "description": "Macのカメラを用いたハンドトラッキングとタイピングによる手話学習ゲームの仕様書",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
